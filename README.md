@@ -5,9 +5,9 @@ Production festival data for [TapList](https://github.com/borzilleri/TapList)
 
 This repo is the **source of truth** for the catalog and beer datasets the app loads at
 runtime. It's published to GitHub Pages at
-<https://borzilleri.github.io/taplist-data/>, and the app fetches:
+<https://borzilleri.net/taplist-data/>, and the app fetches:
 
-- `https://borzilleri.github.io/taplist-data/data/catalog.json` — the manifest of festivals
+- `https://borzilleri.net/taplist-data/data/catalog.json` — the manifest of festivals
 - the dataset URL listed in each catalog entry (e.g. `data/wbf-2026.json`)
 
 ## Publishing an update
