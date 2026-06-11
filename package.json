@@ -1,0 +1,14 @@
+{
+  "name": "taplist-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Production festival data for TapList; PRs are validated against the dataset schema.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}

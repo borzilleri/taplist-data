@@ -1,5 +1,5 @@
 {
-  "$schema": "https://taplist.rampant.io/schema/dataset.schema.json",
+  "$schema": "https://borzilleri.net/taplist-data/schema/dataset.schema.json",
   "id": "wbf-2026",
   "festival": "Washington Brewers Festival 2026",
   "updatedAt": "2026-06-09T00:00:00Z",
