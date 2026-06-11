@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://borzilleri.net/taplist-data/schema/catalog.schema.json",
+  "title": "TapList catalog",
+  "description": "The manifest the app loads first: a list of available festival datasets and which one is the default. See TapList docs/data-model.md §1 for the prose spec.",
+  "type": "object",
+  "required": ["version", "datasets"],
+  "additionalProperties": true,
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Catalog schema version. v1 sets this to 1. Future shape changes bump it and the app may migrate or refuse older catalogs."
+    },
+    "datasets": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Available festival datasets. The app picks one via: the ?festivalId= query param, else the entry with default:true, else the first entry. Entries missing required fields (id, name, url) are dropped at load time with a warning.",
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["id", "name", "url"],
+      "additionalProperties": true,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+          "description": "Stable dataset identifier. Should match the `id` inside the referenced dataset; it's the localStorage namespace key for user data, so it MUST remain stable across updates of the same festival (e.g. daily WBF 2026 updates all share id: \"wbf-2026\"). Slug-safe: lowercase letters, digits, and hyphens — no leading/trailing/double hyphens."
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Human-readable festival name shown in the catalog/picker."
+        },
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Where to fetch this entry's dataset JSON. Absolute (https://…) is used as-is; root-relative (/data/wbf-2026.json) is re-anchored at the data base URL."
+        },
+        "dates": {
+          "type": "object",
+          "required": ["start", "end"],
+          "additionalProperties": true,
+          "description": "Festival run dates. Both bounds are required when present.",
+          "properties": {
+            "start": {
+              "type": "string",
+              "format": "date",
+              "description": "ISO-8601 calendar date (YYYY-MM-DD)."
+            },
+            "end": {
+              "type": "string",
+              "format": "date",
+              "description": "ISO-8601 calendar date (YYYY-MM-DD)."
+            }
+          }
+        },
+        "location": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Free-form venue/location string."
+        },
+        "status": {
+          "enum": ["upcoming", "active", "archived"],
+          "description": "Lifecycle hint for the UI. Any other value is ignored by the runtime."
+        },
+        "default": {
+          "type": "boolean",
+          "description": "Marks the entry the app loads when no festival is otherwise selected. At most one entry should set this; if several do, the app uses the first."
+        }
+      }
+    }
+  }
+}
