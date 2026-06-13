@@ -10,7 +10,8 @@
       "brewery": "210 Brewing Co.",
       "abv": 5.1,
       "style": "Mexican Lager",
-      "styleCategory": "Lager & Pilsner"
+      "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 85"
     },
     {
       "id": "wbf26-0002",
@@ -18,7 +19,8 @@
       "brewery": "210 Brewing Co.",
       "abv": 5,
       "style": "Pineapple Hefeweizen",
-      "styleCategory": "Wheat"
+      "styleCategory": "Wheat",
+      "location": "South Lawn, 85"
     },
     {
       "id": "wbf26-0003",
@@ -27,6 +29,7 @@
       "abv": 7.2,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 85",
       "description": "Brewed with Nelson Cryo, Loral Cryo, Dolcita, Sultana!"
     },
     {
@@ -36,6 +39,7 @@
       "abv": 7,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 85",
       "description": "Brewed with Azacca, Citra, Galaxy!"
     },
     {
@@ -45,6 +49,7 @@
       "abv": 5.5,
       "style": "Down Under Hazy Pale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 87",
       "description": "Golden and hazy with a juicy abundance of Southern Hemisphere grown hops, Motueka, Nectaron, Galaxy, Nelson Sauvin. Big aroma notes of bright lemon zest, white peach, and tropical intensity."
     },
     {
@@ -54,6 +59,7 @@
       "abv": 6.7,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 87",
       "description": "Decidedly West Coast Style, Nomadic IPA displays a bright, deep golden color with a subtle yet toasty, semi-dry malt flavor. Assertive hop character of citrus peel, resin, and tangerine shine through from start to finish."
     },
     {
@@ -63,6 +69,7 @@
       "abv": 7,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 87",
       "description": "Soft & Supple on the pallet, Velvet Tang delivers a walloping hop aroma of juicy, tropical excellence with a smooth finish. Brewed with NW pale and 2-row malts, along with flaked wheat and oats. Hops include Simcoe, Citra, Mosaic, and hefty dry hop additions of Azacca and Citra."
     },
     {
@@ -72,6 +79,7 @@
       "abv": 4.7,
       "style": "Gose Style Sour Ale",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 87",
       "description": "Our Gose-Style Red Raspberry Sour Ale is JAM-PACKED with Ripe Red Raspberries,\nperfectly balanced with local San Juan Island Sea salt. This tart and ever-so-slightly herbaceous beer is bright and delightfully refreshing, making it the ideal brew for heading into Spring."
     },
     {
@@ -79,6 +87,7 @@
       "name": "Heidelberg",
       "brewery": "7 Seas Brewing Co",
       "abv": 4,
+      "location": "South Lawn, 87",
       "description": "Brewed on a base of NW pilsner malt along with flaked corn and rice. Hopped with Yakima Magnum and German Hallertau, yielding a perfectly crisp, refreshing and easy-going beer.",
       "styleCategory": "Lager & Pilsner"
     },
@@ -89,6 +98,7 @@
       "abv": 9.8,
       "style": "Belgian Tripel",
       "styleCategory": "Belgian & Strong",
+      "location": "Fisher Pavilion, 16",
       "description": "Belgian Tripel\nAdheres to traditional guidelines with it's pale straw color\nfrom pilsner malt and it's high alcohol content. This spicy Belgian will\nmake your lips sing!\nOG 1.095 / ABV 9.8% / IBU 25"
     },
     {
@@ -98,6 +108,7 @@
       "abv": 5.5,
       "style": "Honey Cream Ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "Fisher Pavilion, 16",
       "description": "Cream Bee\nBrewed with local honey, this smooth cream ale is lagered for crispness and\nfeatures subtle hop aroma and balanced bitterness from Hallertau and Spalter hops.\nOG 1.051 / ABV 5.5% / IBU 35"
     },
     {
@@ -107,6 +118,7 @@
       "abv": 6.2,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 8",
       "description": "A modern West Coast IPA with notes of bright citrus, juicy mango, and a hint of pine."
     },
     {
@@ -115,6 +127,7 @@
       "brewery": "Aslan Brewing Co.",
       "style": "Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "Fisher Pavilion, 8",
       "description": "An easy drinking modern pale ale with notes of orange, mango, and melon"
     },
     {
@@ -124,6 +137,7 @@
       "abv": 5.9,
       "style": "Mango IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 7",
       "description": "Made with real mango, this Tropical IPA has low bitterness and smells like freshly sliced mango with hints of mandarin orange. A portion of the proceeds from this beer is donated to local nonprofits who support migrant farm workers."
     },
     {
@@ -133,6 +147,7 @@
       "abv": 6.7,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 7",
       "description": "Arcus Angel IPA—a heavenly arc of hops from first sip to finish. Brewed with 2-Row, Pilsner, and Carapils, it delivers a light body that still carries its weight like a guardian with grit. Mosaic, Chinook, Simcoe, and Strata lift aromas of blueberry, grapefruit, and pine into the upper atmosphere. Bright, resinous, and balanced, this American IPA walks the line between bold and graceful."
     },
     {
@@ -142,6 +157,7 @@
       "abv": 4.5,
       "style": "Mexican Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 55",
       "description": "Our official Snohomish Pride beer for 2026! This lager is bright, crispy with some sweetness thanks to the flaked corn. Just add your own lime to top it off!"
     },
     {
@@ -151,6 +167,7 @@
       "abv": 6,
       "style": "Hard Seltzer",
       "styleCategory": "Other",
+      "location": "South Lawn, 55",
       "description": "The Pen Is Rrrroyal Blue, or in this case pink thanks to our house made raspberry rhubarb concentrate. It's bright, mildly sweet with a tart finish. Nothing artificial about our seltzers, and that's no lie."
     },
     {
@@ -160,6 +177,7 @@
       "abv": 0,
       "style": "NA Hop Water",
       "styleCategory": "NA",
+      "location": "South Lawn, 55",
       "description": "Our very refreshing house made hop water is sure to keep you hydrated through the summer heat and in between a brewski or twoski.\nThis batch is flavored with all natural hop extracts featuring Pineapple and Krush hops!\nNo alcohol, no sugar, no carbs, no bullshit!"
     },
     {
@@ -169,6 +187,7 @@
       "abv": 5,
       "style": "American Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 68",
       "description": "Crushable classic American lager. Enjoyable during any season!"
     },
     {
@@ -178,6 +197,7 @@
       "abv": 6,
       "style": "Hard Seltzer",
       "styleCategory": "Other",
+      "location": "South Lawn, 68",
       "description": "Refreshing real fruit flavors!"
     },
     {
@@ -187,6 +207,7 @@
       "abv": 0,
       "style": "Hop Water",
       "styleCategory": "NA",
+      "location": "South Lawn, 68",
       "description": "Refreshing n/an option for all!"
     },
     {
@@ -196,6 +217,7 @@
       "abv": 6.7,
       "style": "Hard Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 15",
       "description": "A fruit-forward semi-dry cider blended with tart and refreshing Rainier and Bing cherries for one of our most approachable and popular ciders."
     },
     {
@@ -205,6 +227,7 @@
       "abv": 6.7,
       "style": "Hard Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 15",
       "description": "Showcasing summer raspberries at their finest, but with a kick. Pleasantly tart lemon paired with strong raspberry notes. Refreshing and rejuvenating. Perfect for summer sipping."
     },
     {
@@ -214,6 +237,7 @@
       "abv": 5,
       "style": "Italian-Style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 54",
       "description": "Death Rides a Horse is our Italian-style pilsner brewed with a blend of German and Italian pilsner malts and hopped in the kettle with Spalt Select, Strisselspalt, Tettnang and Hersbrucker. Death Rides a Horse was fermented cold with our house lager strain then dry hopped with Spalt Select and Perle. Spunded for natural carbonation."
     },
     {
@@ -223,6 +247,7 @@
       "abv": 5.6,
       "style": "Soft Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 54",
       "description": "Crushed in Velvet is our rotating hop soft pale ale that was brewed with pilsner malt and flaked oats. We hopped this batch of soft pale ale in the kettle with Strata, Citra, Simcoe and Chinook. Crushed in Velvet was fermented cool with our house lager strain then dry hopped with Dolcita LupoMax, Galaxy and Strata."
     },
     {
@@ -230,6 +255,7 @@
       "name": "Brett Bier with Lemon Peel & Coriander",
       "brewery": "Bizarre Brewing",
       "abv": 5,
+      "location": "South Lawn, 54",
       "description": "We brewed our brett bier with pilsner malt, flaked and malted wheat, and flaked oats. This light and effervescent bier was hopped lightly in the kettle with Saaz and Cashmere hops and infused with lemon peel and coriander. Keg conditioned with one of our favorite Brettanomyces strains.",
       "styleCategory": "Sour & Gose"
     },
@@ -240,6 +266,7 @@
       "abv": 6.3,
       "style": "American IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 57 / 77",
       "description": "Inspiration for Cedar Dust IPA hails from Bellingham’s iconic mountain bike trail on Galbraith Mountain. Brewed with four varieties of Washington-grown hops, it encapsulates the adventurous spirit of the PNW, offering bright citrus aromatics, subtle pine, and a clean, refreshing finish with a balanced, approachable bitterness that keeps you shreddin’."
     },
     {
@@ -249,6 +276,7 @@
       "abv": 6.4,
       "style": "Scottish-Style Ale",
       "styleCategory": "Amber, Brown & Dark",
+      "location": "South Lawn, 57 / 77",
       "description": "Our Scotch Ale became a Northwest classic with the inaugural brew in 1995. The long boil in the kettle caramelizes the wort, producing deep-copper tones. Scotch Ale’s signature malt character is crafted for pure enjoyment."
     },
     {
@@ -258,6 +286,7 @@
       "abv": 13.3,
       "style": "Bourbon Barrel-Aged American Barleywine",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 57 / 77",
       "description": "Old Bounder, an homage to yesteryear's ales, is an intense, barrel-aged barleywine. Hints of stonefruit and woody undertones are complemented by smooth caramel sweetness, bold hop character, and a warming alcohol content. Perfect for post-dinner indulgence or dessert pairing, Old Bounder is crafted for connoisseurs seeking the finest, embodying a voyage into bold flavors."
     },
     {
@@ -267,6 +296,7 @@
       "abv": 5,
       "style": "Kölsch",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "Fisher Pavilion, 6",
       "description": "Crisp, light, fruity. Perfect for the warm weather."
     },
     {
@@ -276,6 +306,7 @@
       "abv": 5.4,
       "style": "Hefeweizen",
       "styleCategory": "Wheat",
+      "location": "Fisher Pavilion, 6",
       "description": "Bavarian wheat beer, banana and clove."
     },
     {
@@ -285,6 +316,7 @@
       "abv": 6.6,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 6",
       "description": "Chinook, Columbus, Mosaic.\nDry Hopped with Citra, Mosaic, Simcoe."
     },
     {
@@ -294,6 +326,7 @@
       "abv": 4.8,
       "style": "Schwarz Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 74",
       "description": "Schwarz is a traditional German-style black lager that combines snappy bitterness with dry, espresso-like roast flavors on a light to medium-bodied frame."
     },
     {
@@ -303,6 +336,7 @@
       "abv": 4.5,
       "style": "Kolsch",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 74",
       "description": "Chuckanut German-style Kölsch has a light body with a soft malt flavor giving way to a crisp finish. This award-winning ale has undergone cold conditioning, resulting in a slightly fruity aroma, effervescent quality, and quenches your thirst all year round!\n\nWorld Beer Cup 2026 Gold Medal Winner"
     },
     {
@@ -312,6 +346,7 @@
       "abv": 6.5,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 61",
       "description": "Oh you want us to make an IPA with all public hops? And not the new stuff? Pshh easy peezy. How about Chinook, Crystal, and Columbus Cryo."
     },
     {
@@ -321,6 +356,7 @@
       "abv": 5.7,
       "style": "Australian Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 61",
       "description": "What if earth and our planet system and space was just a tiny snow globe in the palm of a reckless alien child with very bad ADHD so that it sometimes they totally forget about us when it falls off their nightstand and rolls under their bed until they find it months later, covered in gloob (that’s dust in their world) and then they just briefly shake the shit out of it before throwing it into their toy closest, which in turn, creates a chaotic turn of events in our world - climate change, war, poverty, pariahs - and that’s why all this shit is going on? WE’RE JUST A TINY FUCKING SNOWGLOBE THAT FITS IN YOUR POCKET. THIS COULD EXPLAIN EVERYTHING! WHAT. YES. This is another beer with Galaxy. Also, Citra, Azacca, Mosaic, and Nectaron. An extra stellar constellation of hops, if you will. All wrapped up in a small package for you to crush with your mouth and not with your palm. UNLIKE AFOREMENTIONED RECKLESS ALIEN CHILD."
     },
     {
@@ -330,6 +366,7 @@
       "abv": 5.3,
       "style": "Contemporary American-Style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 61",
       "description": "2024 GABF Bronze, 2023 WBC Bronze, 2022 WBC Bronze, 2021 GABF Silver\nWe believe every day is a good day when you brew. Start out by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt and hopped with a blend of Magnum, Saaz, Mandarina, Citra, & Mosaic."
     },
     {
@@ -339,12 +376,14 @@
       "abv": 5.7,
       "style": "hard kombucha",
       "styleCategory": "Other",
+      "location": "Fisher Pavilion, 5",
       "description": "Sage Awakening, yuzu sage hard kombucha 5.7% ABV\nFresh citrusy Yuzu goodness on the nose with well-balanced dry fruit flavors and slight nuances of sage on the finish"
     },
     {
       "id": "wbf26-0039",
       "name": "Golden Griffin",
       "brewery": "Culture Shock Brew",
+      "location": "Fisher Pavilion, 5",
       "description": "GOLDEN GRIFFIN: Green tea flavored with fresh Pineapple, Mango, and Yakima Valley Hops. So many tropical notes up front with a well-balanced hop finish.",
       "styleCategory": "Other"
     },
@@ -355,6 +394,7 @@
       "abv": 6.9,
       "style": "Hard Tepache",
       "styleCategory": "Other",
+      "location": "Fisher Pavilion, 5",
       "description": "Tepache Daydream, pineapple hard tepache 6.9% ABV\nNotes of roasted pineapple and baking spice with an outstanding wild yeast funk"
     },
     {
@@ -364,6 +404,7 @@
       "abv": 4.2,
       "style": "Mexican Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 25",
       "description": "Crisp, light, and brewed with a refreshing twist — El Ricardo is an easy-drinking lager with smooth flavor and laid-back vibes made for good times."
     },
     {
@@ -373,6 +414,7 @@
       "abv": 5.2,
       "style": "English Dark Ale",
       "styleCategory": "Amber, Brown & Dark",
+      "location": "Fisher Pavilion, 25",
       "description": "Bold, smooth, and full of character — Dick Danger Ale delivers rich malt flavor balanced with a clean hop finish for an easy-drinking ale with just the right amount of attitude."
     },
     {
@@ -382,6 +424,7 @@
       "abv": 4.8,
       "style": "Wheat Ale",
       "styleCategory": "Wheat",
+      "location": "Fisher Pavilion, 25",
       "description": "Bright, refreshing, and brewed with a burst of citrus — Orange You Glad Wheat Ale is a smooth wheat beer with sweet orange flavor and a crisp, easy-drinking finish."
     },
     {
@@ -391,6 +434,7 @@
       "abv": 6.5,
       "style": "India Pale Ale",
       "styleCategory": "IPA",
+      "location": "South Lawn, 60",
       "description": "Crafted with locally grown hops, this IPA is a tribute to where we brew and call home—the mountains of Washington State. Krush®, Simcoe®, Citra®, and Mosaic® hops, combined with fresh mountain water and light malts, create a crisp, hop-forward ale layered with clean pine and punchy citrus. Bold, drinkable, and brewed in the Cascades, this beer is undeniably Mountain Made."
     },
     {
@@ -400,6 +444,7 @@
       "abv": 4.8,
       "style": "German-Style Light Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 60",
       "description": "An award-winning, German-style golden lager. Fresh mountain water, Bohemian Pilsner malts, and gentle European hops create a super-smooth lager with a complex maltiness and soft bitterness. It’s refreshing, tasty, and crushable."
     },
     {
@@ -409,6 +454,7 @@
       "abv": 4.8,
       "style": "German-Style Gose",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 60",
       "description": "*us bringing this one is TBD - depends on our stock, but wanted to list it just in case!*\n\nA crisp and tart wheat beer that is soured using Lactobacillus bacteria. A sprinkling of sea salt and fresh-ground coriander compliment the acidity with a mild spiciness and a mild salty-mineral finish. Brewed with peaches; you’ll find it fruity, crisp, and refreshing."
     },
     {
@@ -418,6 +464,7 @@
       "abv": 5.1,
       "style": "session IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 75",
       "description": "Lager yeast and pilsner malt take a back seat to huge hop flavor from cryo Mosaic and Citra. Lots of citrus notes with a touch of tropical fruit and spice. Finishes clean, dry and refreshing. 25 IBU"
     },
     {
@@ -427,6 +474,7 @@
       "abv": 4.5,
       "style": "Golden ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 75",
       "description": "Simple, clean, easy drinking golden ale. Munich and Vienna Malts show off a bready biscuit character, centennial and strata bring just enough balance. 16 IBU Get those goals!"
     },
     {
@@ -436,6 +484,7 @@
       "abv": 5.2,
       "style": "West Coast Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 75",
       "description": "Clean lager meets double dry hopping. Pacifica, HBC 638 and cryo mosaic offer tangerine, grapefruit zest, lemon, peach and more! 25 IBU"
     },
     {
@@ -445,6 +494,7 @@
       "abv": 5.3,
       "style": "Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 23",
       "description": "A crisp, bright West Coast Pilsner featuring citra and simcoe hops."
     },
     {
@@ -454,6 +504,7 @@
       "abv": 3.8,
       "style": "Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "Fisher Pavilion, 23",
       "description": "Foeder lagered table saison."
     },
     {
@@ -463,6 +514,7 @@
       "abv": 4.6,
       "style": "Hazy Pale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 41",
       "description": "Our crowd-favorite house Hazy Pale, tropical flavor brought to you by Mosaic and El Dorado hops."
     },
     {
@@ -472,6 +524,7 @@
       "abv": 6.3,
       "style": "Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "South Lawn, 41",
       "description": "Gentle saison yeast character comes from the Jovaru Farmhouse yeast. Spiced with Bitter Orange, Grains of Paradise, and Coriander. (Another member award winning beer made in CO-OPeration with Eric Blume.)"
     },
     {
@@ -481,6 +534,7 @@
       "abv": 5.1,
       "style": "American-Style Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 53",
       "description": "You are no victim of soicumstance, this beer is soitenly poifect! Fragrant and refreshingly dry, Mosaic hops bring blueberry and starfruit aromas, finishing with HOTCHACHACHAA!"
     },
     {
@@ -490,6 +544,7 @@
       "abv": 9,
       "style": "Belgian-Style Golden Strong",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 53",
       "description": "There I was, enjoying the complex blend of fruity esters and subtle spice, ready to have another of this extraordinarily smooth beer when, POW! I got that Velvet Uppercut."
     },
     {
@@ -499,6 +554,7 @@
       "abv": 6,
       "style": "American-Style Stout",
       "styleCategory": "Stout & Porter",
+      "location": "South Lawn, 53",
       "description": "This is a classic American Stout, full of flavor, character, and with a spicy, crisp addition of Rye. The clean, roasted flavor finishes dry and drinks well year-round."
     },
     {
@@ -508,6 +564,7 @@
       "abv": 5,
       "style": "Kölsch",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 53",
       "description": "This crispy boi was brewed as part of a recipe trade with Italian brewery, La Collina. It is a beautiful ode to Vienna malt and Base 10. A pleasant golden hue with subtle hints of toasted pecan and biscuits."
     },
     {
@@ -515,7 +572,8 @@
       "name": "H2O Yeah Hop Water",
       "brewery": "Flying Lion Brewing",
       "style": "Hop Water",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "South Lawn, 53"
     },
     {
       "id": "wbf26-0059",
@@ -524,6 +582,7 @@
       "abv": 7.2,
       "style": "WC IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 45",
       "description": "Citra, Mosaic Cryo and experimental HBC 1183 hops are in charge of this high hop charged dry west coast ipa with notes of lime, melon, tropical with a background note of dripping pitch."
     },
     {
@@ -533,6 +592,7 @@
       "abv": 4.9,
       "style": "Keller Helles",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 45",
       "description": "Dry bread cracker malty drinkable lager beer."
     },
     {
@@ -542,6 +602,7 @@
       "abv": 5,
       "style": "Kolsch",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 65",
       "description": "A classic Koln style Kolsch with 100% German ingredients."
     },
     {
@@ -551,6 +612,7 @@
       "abv": 4.9,
       "style": "Rauch Marzen",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 65",
       "description": "A classic Bamberg style Rauch Bier with 100% German ingredients."
     },
     {
@@ -560,6 +622,7 @@
       "abv": 5.2,
       "style": "Mexican Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 64",
       "description": "This Mexican-style lager presents a clean, easy-drinking profile with subtle water cracker notes up front, followed by light impressions of white bread, corn, and delicate florals."
     },
     {
@@ -569,6 +632,7 @@
       "abv": 14.7,
       "style": "BA Barleywine",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 64",
       "description": "barley wine greets the senses with rich aromas of molasses, toffee, brown sugar, cola, vanilla, whiskey, and dried fruits, layered with hints of oak and biscuit"
     },
     {
@@ -578,6 +642,7 @@
       "abv": 6.5,
       "style": "Fruited Cider",
       "styleCategory": "Cider",
+      "location": "South Lawn, 64",
       "description": "Dry cider with peach puree and oolong tea infusion."
     },
     {
@@ -585,7 +650,8 @@
       "name": "NA Hazy IPA",
       "brewery": "Fremont Brewing",
       "style": "Hazy IPA",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "South Lawn, 64"
     },
     {
       "id": "wbf26-0067",
@@ -594,6 +660,7 @@
       "abv": 5.5,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 81",
       "description": "Nice and hoppy citrusy IPA that bursts with flavor yet not overpowering. It is the fun uncle of the IPA verse!"
     },
     {
@@ -603,6 +670,7 @@
       "abv": 5,
       "style": "Kolsch",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 81",
       "description": "This easy drinking is perfect for warm days. It has a light body and light citrusy flavor."
     },
     {
@@ -612,6 +680,7 @@
       "abv": 4.6,
       "style": "Gose",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 51",
       "description": "Light, snappy, saline, and pleasantly tart. We brewed the un-fruited version of this with Fal Allen of Anderson Valley and are happy to present its pink and very berry reprise. Look for a clean, crisp tartness and a subtle bready finish."
     },
     {
@@ -621,6 +690,7 @@
       "abv": 5,
       "style": "American Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 51",
       "description": "This lager is clean and easy to drink. The addition of flaked maize gives the beer a very clean, dry finish that is not bitter or sweet."
     },
     {
@@ -630,6 +700,7 @@
       "abv": 5,
       "style": "8th Anniversary Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "South Lawn, 73",
       "description": "A unique blend of barrel-aged fresh hopped beer and young dry-hopped beer, crafted in celebration of our 8th anniversary!"
     },
     {
@@ -639,6 +710,7 @@
       "abv": 4.2,
       "style": "Fruit Ale",
       "styleCategory": "Other",
+      "location": "South Lawn, 73",
       "description": "Barrel-aged native yeast ale co-fermented with boysenberries, blended with young table beer, re-fermented with blue haskap berries, and naturally conditioned with juice from local blackberries."
     },
     {
@@ -648,6 +720,7 @@
       "abv": 6.8,
       "style": "100% Spontaneously Fermented Beer with Second Use Fruit",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 73",
       "description": "A blend of spontaneously fermented, barrel-aged beer from each of our first five seasons, re-fermented on local cherries that had previously been used to make (This Is A) Crush Story. Just a hint of cherry color with cherry undertones carrying through from the nose to the finish."
     },
     {
@@ -657,6 +730,7 @@
       "abv": 10,
       "style": "Fruited Native Yeast Honey Quadrupel",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 73",
       "description": "A barrel-aged high gravity blend refermented with loads of burnt clover honey, Skagit plums, and Skagit-foraged blackberries. Naturally bottle conditioned with more honey."
     },
     {
@@ -664,6 +738,7 @@
       "name": "Juniorzafa IPA",
       "brewery": "Georgetown Brewing Company",
       "abv": 5.4,
+      "location": "South Lawn, 66 / 70",
       "description": "Modeled after the Bodhizafa recipe, but brewed to be lighter, Juniorzafa still has the bright tropical aromas from the Citra, Mosaic and Chinook hops you love, but with a lower ABV.",
       "styleCategory": "IPA"
     },
@@ -672,6 +747,7 @@
       "name": "Gusto Crema Coffee Ale",
       "brewery": "Georgetown Brewing Company",
       "abv": 4.6,
+      "location": "South Lawn, 66 / 70",
       "description": "Building on Gusto Crema blend, a medium roasted bean from our friends at Caffè Umbria, we made a smooth, rich cream ale. This beer has roasted flavor, aroma, and color from cold brew coffee. Smooth, rich mouthfeel comes from oats and Munich malt. Gold medal winner in the Coffee Beer category at the Great American Beer Festival in 2016! Contains lactose.",
       "styleCategory": "Blonde, Kölsch & Cream"
     },
@@ -682,6 +758,7 @@
       "abv": 6,
       "style": "Cranberry Hibiscus Gose",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 34",
       "description": "Tart and refreshing with a margarita vibe."
     },
     {
@@ -690,6 +767,7 @@
       "brewery": "Ghostfish Brewing",
       "style": "Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 34",
       "description": "A classic American Lager inspired by the whole Ghostfish family."
     },
     {
@@ -699,6 +777,7 @@
       "abv": 6.8,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 48",
       "description": "Dolcita Single Hop Hazy IPA"
     },
     {
@@ -708,6 +787,7 @@
       "abv": 6.3,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 48",
       "description": "Krush Single Hop IPA"
     },
     {
@@ -717,6 +797,7 @@
       "abv": 5.5,
       "style": "WC Pils",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 48",
       "description": "A West Coast Pilsner made with Krush and Galaxy Hops"
     },
     {
@@ -725,13 +806,15 @@
       "brewery": "Haas Innovations Brewing LLC.",
       "abv": 5.5,
       "style": "Munich Dunkel",
-      "styleCategory": "Lager & Pilsner"
+      "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 48"
     },
     {
       "id": "wbf26-0083",
       "name": "Halcyon Pilsner",
       "brewery": "Halcyon Brewing",
       "abv": 5.1,
+      "location": "Fisher Pavilion, 20",
       "description": "Our pilsner is single-decocted using local Linc/Coldstream pilsner malt and Oregon-grown Liberty and Sterling. It has a bit of old world spin. Notes of lemon, berries and a dash of herbal spice with a nice bready base.",
       "styleCategory": "Lager & Pilsner"
     },
@@ -742,6 +825,7 @@
       "abv": 6.2,
       "style": "West Coast Ipa",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 20",
       "description": "Like the bird that gets you into birding, this Ipa may be the Ipa that gets you into Ipa'ing. This crisp West Coast Ipa has fruity notes of fresh cut citrus, marmalade, peaches and a dollop of tropical fun.\nHops: Citra, Krush Cryo, Mosaic, Columbus Cryo"
     },
     {
@@ -751,6 +835,7 @@
       "abv": 10.8,
       "style": "Chocolate Pistachio Imperial Stout",
       "styleCategory": "Stout & Porter",
+      "location": "Fisher Pavilion, 20",
       "description": "We made a special imperial stout with cacao nibs, real pistachio and a small dash of matcha. This is out of our norm (lowish abv’s). It sneaks up with its 10.8%. Brewed with a double mash and a long boil that will become our barrel-aged base."
     },
     {
@@ -760,6 +845,7 @@
       "abv": 5.7,
       "style": "Hazy Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 44",
       "description": "Initially brewed in conjunction with the Emerald City Supporters for the Sounders, Seattle Sunshine is loaded with peach, nectarine and citrus hop character."
     },
     {
@@ -769,6 +855,7 @@
       "abv": 4.7,
       "style": "Mexican Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 44",
       "description": "Light, golden, crisp and clean. Take a break from the high ABV beers and reset your palate with something mellow and refreshing. You'll thanks us later. Good luck to El Tri in the World Cup!"
     },
     {
@@ -778,6 +865,7 @@
       "abv": 5.3,
       "style": "Pineapple, Blood Orange and Passion Fruit Wheat Beer",
       "styleCategory": "Wheat",
+      "location": "South Lawn, 44",
       "description": "Let your Pride flag fly! Hoist the Colors is a fruited wheat beer loaded with real Pineapple, Blood Orange and Passionfruit. Our beer has-and always will be-brewed for EVERYONE to enjoy. Taste the Rainbow!"
     },
     {
@@ -787,6 +875,7 @@
       "abv": 7.5,
       "style": "DDH West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 72",
       "description": "Cashmere, Mosaic Cryo, Nelson. crisp, clean, & ripe"
     },
     {
@@ -796,6 +885,7 @@
       "abv": 4.3,
       "style": "Alpine-style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 72",
       "description": "Seattle water, Slovenian hops, Pilsner malt"
     },
     {
@@ -805,6 +895,7 @@
       "abv": 7,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 62",
       "description": "Our space to play with hops in the haze! We keep the malt to a minimum focused on body and mouthfeel thanks to generous helpings of oats and wheat. This round we went with a bright trio of Mosaic, Galaxy and Nelson resulting in a gush of tropical fruit flavor!"
     },
     {
@@ -814,6 +905,7 @@
       "abv": 5.4,
       "style": "Dortmunder Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 62",
       "description": "The recent spate of Dortmunder Export lagers in the NW is a good example of brewers’ zeitgeist. To that background we give you Under A Free Heaven! Just step mashed German pils malt, Magnum and Hallertau Tradition hops, cold fermented, spunded and unfiltered. Prost!"
     },
     {
@@ -823,6 +915,7 @@
       "abv": 6.4,
       "style": "Mostly Dry Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 24",
       "description": "A sunlit daydream in a glass - apple at the wheel, jackfruit riding shotgun, and a mystery melon (or maybe an eccentric plum?) hitching a ride. Mostly dry, lightly sweet, and juicier than your average summer scandal."
     },
     {
@@ -832,6 +925,7 @@
       "abv": 6.4,
       "style": "Mostly Dry Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 24",
       "description": "It’s tea time, innit? Smooth apple, a splash of vanilla, and a bright little zing of bergamot, like your nan’s Earl Grey, but with a proper kick. Lightly floral, a touch sweet, and dry enough to mind its manners. Pinkies up, you posh rascal."
     },
     {
@@ -841,6 +935,7 @@
       "abv": 6.6,
       "style": "Mostly Dry Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 24",
       "description": "Like a French rosé that’s trying so hard to be elegant but mostly just ends up embarrassing itself. Kind of like that friend that talks fancy words but can’t quite pull them off. Tart cranberry and bold florals are there to help, but those dry tannins? They’re just too sharp to keep quiet. It’s pretty, it’s awkward, and way too real for the classic fairy tale ending."
     },
     {
@@ -850,6 +945,7 @@
       "abv": 4.9,
       "style": "German Style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 21",
       "description": "Crisp and refreshing with balanced bitterness, Kulshan Pilsner showcases the finest German malt and noble hops. Traditional clean and bready malt flavors support herbal, floral and slightly spicy hop aromatics and flavor."
     },
     {
@@ -859,6 +955,7 @@
       "abv": 7.3,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 21",
       "description": "Named after the popular ridge trail that leads to the base of Mount Baker’s Coleman Glacier, Heliotrope IPA is a mouthwatering fusion of classic West Coast IPA characteristics, and new-school fruity, juicy hop flavor. Apricot, tangerine and grapefruit dominate in both aroma and flavor, accented by milder notes of pineapple and black tea."
     },
     {
@@ -868,6 +965,7 @@
       "abv": 5.6,
       "style": "Hazy Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "Fisher Pavilion, 21",
       "description": "Brewed with our good friends over at the Whatcom Mountain Bike Coalition (WMBC), Dad Bod is a refreshing companion for summer activities. A superbly crushable hazy pale ale, bursting with both juicy tropical fruit notes and zesty citrus\naccents."
     },
     {
@@ -875,6 +973,7 @@
       "name": "Barrel Aged Belgian Golden Strong",
       "brewery": "Kulshan Brewing Co.",
       "abv": 11,
+      "location": "Fisher Pavilion, 21",
       "description": "Aged in barrels from Big Gin Distillery in Seattle, this beer has a smooth bready malt body, with big botanical notes of juniper, pine, and lemongrass, and a slightly warm, boozy finish.",
       "styleCategory": "Belgian & Strong"
     },
@@ -883,7 +982,8 @@
       "name": "Zero to Hero",
       "brewery": "Kulshan Brewing Co.",
       "style": "N/A IPA",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "Fisher Pavilion, 21"
     },
     {
       "id": "wbf26-0101",
@@ -892,6 +992,7 @@
       "abv": 12,
       "style": "Russian Imperial Stout",
       "styleCategory": "Stout & Porter",
+      "location": "South Lawn, 56",
       "description": "Coconut-saturated beer “juice” rendered from our annual Russian Imperial Stout Deprived of Light."
     },
     {
@@ -901,6 +1002,7 @@
       "abv": 5.7,
       "style": "West Coast Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 56",
       "description": "A pitch-perfect pils brewed with ingredients from North America, Europe, South Asia, and New Zealand to mark the planet's premier soccer tournament coming to Seattle."
     },
     {
@@ -910,6 +1012,7 @@
       "abv": 4.9,
       "style": "Hoppy Belgian Ale",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 56",
       "description": "Inspired by Brasserie de la Senne's Taras Boulba, our homage is assertively bitter and herbaceous with a floral hop bouquet."
     },
     {
@@ -919,6 +1022,7 @@
       "abv": 5.2,
       "style": "Blonde Ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 67",
       "description": "Easy Mode Blonde Ale is mellow & refreshing with notes of floral honey and fresh bread. GABF 2024 Silver Medalist."
     },
     {
@@ -928,6 +1032,7 @@
       "abv": 7,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 67",
       "description": "Fire Temple West Coast IPA burns with notes of lime and grapefruit balanced by a crisp, dry, and hoppy finish. Gold Medalist 2023 U.S. Open Beer Championship"
     },
     {
@@ -937,6 +1042,7 @@
       "abv": 7,
       "style": "Blackberry Sour Ale",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 67",
       "description": "Patio Rabbit Blackberry Sour Ale is hopped up on the tart flavors of fresh blackberries!"
     },
     {
@@ -946,6 +1052,7 @@
       "abv": 4.7,
       "style": "Japanese Dry Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 63",
       "description": "A refreshing Japanese Lager brewed with rice and corn to mirror beloved crisp “super dry” lagers common in Japan. The term Karakuchi is Japanese for “dry” and is commonly used to describe beers with this flavor profile."
     },
     {
@@ -955,6 +1062,7 @@
       "abv": 5.7,
       "style": "Sour Ale",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 63",
       "description": "Our latest limited release sour brewed with hundreds of pounds of marionberry puree. The resulting beer is tart and finishes with a bit of natural sweetness."
     },
     {
@@ -964,6 +1072,7 @@
       "abv": 5,
       "style": "Kolsch Style Ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 63",
       "description": "Brewed with deference to German brewing traditions, our version of Kölsch is elegantly light, crisp, and effervescent. One of the most criminally underappreciated styles in the beer world, expect a touch of fruitiness that highlights a honey-like malt sweetness and floral noble hops."
     },
     {
@@ -973,6 +1082,7 @@
       "abv": 5,
       "style": "Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 47",
       "description": "Easy drinking pilsner for the long days at the lake."
     },
     {
@@ -982,6 +1092,7 @@
       "abv": 7,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 47",
       "description": "Hazy IPA featuring Citra Cryo, Simcoe Cryo, MosaicCryo and El Dorado. Berry, passion fruit,mango, and citrus notes erupt out of the glass."
     },
     {
@@ -991,6 +1102,7 @@
       "abv": 15.2,
       "style": "BA Barleywine",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 47",
       "description": "A blend of one year, two year, three year, and four year old barleywine all aged in Willett bourbon barrels."
     },
     {
@@ -1000,6 +1112,7 @@
       "abv": 4.8,
       "style": "Amber Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 3",
       "description": "Inspired by our Original Amber Ale, this lager version delivers layers of rich roasted malts with a crisp, clean, caramel finish."
     },
     {
@@ -1009,6 +1122,7 @@
       "abv": 8.1,
       "style": "Double IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 3",
       "description": "Marymoor IPA is grounded in bold, vibrant citrus notes. It goes big with 8.1% ABV but never loses its balance."
     },
     {
@@ -1018,6 +1132,7 @@
       "abv": 5.3,
       "style": "Kettle Sour",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 82",
       "description": "Best shared with friends, this sour ale boasts juicy notes of tropical fruit featuring Guava and Pineapple."
     },
     {
@@ -1027,6 +1142,7 @@
       "abv": 4,
       "style": "Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 82",
       "description": "Sometimes life calls for something light, classic, and refreshing. Sometimes you just need a Cheap Beer."
     },
     {
@@ -1036,6 +1152,7 @@
       "abv": 6.5,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 82",
       "description": "FOMO IPA is here as our first year-round IPA. If you have that FOMO, grab a FOMO, and then maybe grab another!"
     },
     {
@@ -1045,6 +1162,7 @@
       "abv": 6.6,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 82",
       "description": "Is it 4/20 yet? again? Wait, what day is it? What am I drinking? This is delicious!"
     },
     {
@@ -1054,6 +1172,7 @@
       "abv": 4.9,
       "style": "Kolsch Style Ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 35",
       "description": "Light-bodied German-style ale with mild hop bitterness. Very dry and highly sessionable."
     },
     {
@@ -1063,6 +1182,7 @@
       "abv": 6.5,
       "style": "India Pale Ale",
       "styleCategory": "IPA",
+      "location": "South Lawn, 35",
       "description": "A simple grain bill of 2-row and Pilsner malt allows Mosaic and Strata hops to pop in this crisp golden ale. Grapefruit and Tropical fruit flavors backed up with moderate bitterness. Enjoy this refreshing West Coast IPA."
     },
     {
@@ -1072,6 +1192,7 @@
       "abv": 5.5,
       "style": "Porter",
       "styleCategory": "Stout & Porter",
+      "location": "South Lawn, 35",
       "description": "Infused with toasted coconut, this Porter is silky smooth, rich and robust, with a touch of sweetness on the finish."
     },
     {
@@ -1081,6 +1202,7 @@
       "abv": 13,
       "style": "Carmenere",
       "styleCategory": "Wine & Mead",
+      "location": "South Lawn, 50",
       "description": "2023 Carménère\nHandpicked / naturally fermented / unfiltered / unfined\nBarrel aged for 18 months in neutral oak.\nNo more than 20ppm sulfite added before bottling.\nGrapes from Columbia Valley AVA, Des Estes Long Vineyard\nTasting notes – Mineral driven with herbaceous nose, tastes fruit forward with earth, smoke, and black pepper."
     },
     {
@@ -1090,6 +1212,7 @@
       "abv": 14.3,
       "style": "Sangiovese",
       "styleCategory": "Wine & Mead",
+      "location": "South Lawn, 50",
       "description": "2023 Sangiovese\nNaturally fermented/hand picked/unfiltered/unfined\nBarrel aged for 18 months in neutral oak.\nNo more than 20ppm sulfite added before bottling.\nGrapes from Red Willow Vineyard, Yakima Valley AVA\nTasting notes - Velvety and rich, cherry and leather"
     },
     {
@@ -1099,6 +1222,7 @@
       "abv": 12.4,
       "style": "Dry Riesling",
       "styleCategory": "Wine & Mead",
+      "location": "South Lawn, 50",
       "description": "2025 Riesling\nHandpicked / old vine / naturally fermented in locally sourced NOVUM amphora for 10 months and finished in stainless steel\nGrapes from Columbia Valley AVA, Dubrul Vineyard\nTasting notes - Green apple, lemongrass, nectarine and pineapple with a long finish"
     },
     {
@@ -1108,6 +1232,7 @@
       "abv": 12.9,
       "style": "Gewürztraminer Orange Wine",
       "styleCategory": "Wine & Mead",
+      "location": "South Lawn, 50",
       "description": "2025 Gewürztraminer orange wine\nNaturally fermented/hand picked/unfiltered\nBarrel fermented on skins for 6 weeks in locally sourced NOVUM amphora then aged in stainless on the lees for 6 months\nGrapes from Naches Heights AVA\nTasting notes - Ripe apricot and peach with a hint of ginger"
     },
     {
@@ -1117,6 +1242,7 @@
       "abv": 5.1,
       "style": "Mexican lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 79",
       "description": "Traditional Mexican Lager with flaked corn. Perfect beach beer."
     },
     {
@@ -1126,6 +1252,7 @@
       "abv": 8.4,
       "style": "Imperial TDH WC IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 79",
       "description": "2025 Alpha King Silver Medalist. Chinook/Freestyle Nectaron/Citra/Citra Incognito/CTZ Cryo/Nelson Sauvin Cryo. A bombastic WC Imperial that's as massively dank and tropical as it is drinkable"
     },
     {
@@ -1135,6 +1262,7 @@
       "abv": 6.5,
       "style": "(off-dry)",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 17",
       "description": "Off Dry is our flagship cider, crafted for any occasion year-round. Made with a 50/50 blend of Washington-grown apples and pears and no added sugar, it strikes the perfect balance between crisp and refreshing with a subtle touch of sweetness. At 6.5% ABV, this off-dry cider is smooth, approachable, and never too sweet or too dry."
     },
     {
@@ -1144,6 +1272,7 @@
       "abv": 4.5,
       "style": "(semi-sweet)",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 17",
       "description": "Peach is our refreshing summer cider, made with our signature apple-and-pear blend and fresh peaches. At 4.5% ABV, this semi-sweet cider is sessionable, juicy, nd easy-drinking with bright peach notes and a crisp finish that's perfect for warm days and sunny patios."
     },
     {
@@ -1153,6 +1282,7 @@
       "abv": 5.4,
       "style": "Bavarian Hefeweizen",
       "styleCategory": "Wheat",
+      "location": "South Lawn, 58",
       "description": "The banana-and-clove flavor you expect with a clean and bitter noble hop finish."
     },
     {
@@ -1162,6 +1292,7 @@
       "abv": 5,
       "style": "Mexican Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 58",
       "description": "Mashed with Mesquite flour. The Mesquite imparts a sweet, nutty, maple note to the clean and dry Vienna-style Mexican lager."
     },
     {
@@ -1170,7 +1301,8 @@
       "brewery": "Outer Planet Brewing",
       "abv": 0,
       "style": "Hoppy Seltzer",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "South Lawn, 58"
     },
     {
       "id": "wbf26-0133",
@@ -1179,6 +1311,7 @@
       "abv": 6,
       "style": "Cream Ale",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "Fisher Pavilion, 11",
       "description": "It's light, It's crisp and has a smooth mouthfeel! Brewed with cashmere hops."
     },
     {
@@ -1188,6 +1321,7 @@
       "abv": 5,
       "style": "Citra Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "Fisher Pavilion, 11",
       "description": "This is our Mug Club collab brew, brewed with love and Citra hops for Pride Month!"
     },
     {
@@ -1197,6 +1331,7 @@
       "abv": 5.5,
       "style": "Sour Ale",
       "styleCategory": "Sour & Gose",
+      "location": "Fisher Pavilion, 11",
       "description": "this sour ale balances crisp tartness with a soft and smooth mouthfeel. Magnum hops provide a clean bitterness while Hallertau Blanc in the whirlpool adds bright notes of\nwhite grape and citrus."
     },
     {
@@ -1206,6 +1341,7 @@
       "abv": 6.5,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 69",
       "description": "Juicy citrus, berries & pine."
     },
     {
@@ -1215,6 +1351,7 @@
       "abv": 4.1,
       "style": "Fruit Ale",
       "styleCategory": "Other",
+      "location": "South Lawn, 69",
       "description": "Mango, tart key lime & pink guava"
     },
     {
@@ -1224,6 +1361,7 @@
       "abv": 4.8,
       "style": "Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 69",
       "description": "Very light and drinkable with a smooth body."
     },
     {
@@ -1233,6 +1371,7 @@
       "abv": 15.8,
       "style": "BBA Strong Ale",
       "styleCategory": "Belgian & Strong",
+      "location": "South Lawn, 69",
       "description": "Coffee, bourbon & vanilla"
     },
     {
@@ -1242,6 +1381,7 @@
       "abv": 6,
       "style": "XPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 83",
       "description": "Brewed in collaboration with Indie Hops, this clean modern XPA showcases Crystal and Lorien for bright citrus, soft floral notes, and a crisp noble-hop snap."
     },
     {
@@ -1251,6 +1391,7 @@
       "abv": 5.5,
       "style": "PNW Pils",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 83",
       "description": "PNW Pils inspired by the modern West Coast Pils style, brewed with 100% Pacific Northwest ingredients: Buzz malt from LINC Malt and Strata and Audacia hops from Indie Hops. Crisp, bright, and hop-forward with notes of citrus, berry."
     },
     {
@@ -1260,6 +1401,7 @@
       "abv": 6.8,
       "style": "Fruited Sour",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 83",
       "description": "A bold, fruit-forward sour packed with fresh mango flavor and a bright, mouthwatering tartness."
     },
     {
@@ -1269,6 +1411,7 @@
       "abv": 6.9,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 83",
       "description": "Brewed in collaboration with BreakThru Brewing, this hazy IPA is loaded with layers of Citra and Nelson Sauvin in every form we could throw at it. Huge waves of tropical citrus, white grape, passionfruit, and dank hop saturation from Citra Cryo, Citra Incognito, Nelson Sauvin, and Nelson Bliss Hop Kief."
     },
     {
@@ -1278,6 +1421,7 @@
       "abv": 5.5,
       "style": "Botanical Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "Fisher Pavilion, 13",
       "description": "Organic Wildcrafted Spruce Pale Ale\nAromas of bright candied citrus, evergreen and tropical fruit. Tastes of blueberry, mango, lychee, raspberry. Finishes dry and crisp, with lingering notes of tropical fruit and resin."
     },
     {
@@ -1287,6 +1431,7 @@
       "abv": 5.5,
       "style": "Dry-Hopped Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "Fisher Pavilion, 13",
       "description": "Organic Dry-Hopped Saison~Crisp high mountain meadow and alpine florals notes with light of citrus bitters, quintessentially refreshing with a memorable soft silky pillowy mouthfeel."
     },
     {
@@ -1296,6 +1441,7 @@
       "abv": 6,
       "style": "Foeder aged Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "Fisher Pavilion, 13",
       "description": "9 year Cognac Foeder aged saison brettanomyces~ “Bright citrus nose, aromas of damp oak, lemon rind and wet hay. Golden straw hue with tastes of candied citrus fruit, tangerine, lemon, melon and honey. Creamy and earthy with moderate tartness and acidity, ﬁnishing with a smooth rustic dry linger.”"
     },
     {
@@ -1304,6 +1450,7 @@
       "brewery": "Propolis Brewing",
       "style": "Wild mixed culture Barrel Aged Fruited Sour",
       "styleCategory": "Sour & Gose",
+      "location": "Fisher Pavilion, 13",
       "description": "Pinot Noir Barrel aged Native fruit Sour~Delicate aromas of light oak, lemon rind, peach & strawberries. Ruby-straw hue with tastes of tropical fruit, melon and dense strawberry. Earthy and crisp with moderate tartness, acidity & Tannins, ﬁnishes with a rustic dry bite"
     },
     {
@@ -1311,7 +1458,8 @@
       "name": "Propolis SPAH20",
       "brewery": "Propolis Brewing",
       "style": "Sparkling Botanical Hop Water",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "Fisher Pavilion, 13"
     },
     {
       "id": "wbf26-0149",
@@ -1320,6 +1468,7 @@
       "abv": 6.5,
       "style": "PNW IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 9",
       "description": "Ambiguous citrus and mango paired with subtle pine and dankness on a medium bodied slightly hazy, and slightly bready canvas. Fermented on clean chico-strain ale yeast. 60 IBU"
     },
     {
@@ -1329,6 +1478,7 @@
       "abv": 5.7,
       "style": "Weissbier",
       "styleCategory": "Wheat",
+      "location": "Fisher Pavilion, 9",
       "description": "Banana esters and subtle pineapple with a medium-light body and crisp acidity."
     },
     {
@@ -1338,6 +1488,7 @@
       "abv": 5.8,
       "style": "Hazy Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "Fisher Pavilion, 9",
       "description": "Candied pineapple and ambiguous tropical notes finished with a subtle grapefruit on a semi dry palate of pilsner and torrefied wheat. 45 IBU"
     },
     {
@@ -1347,6 +1498,7 @@
       "abv": 6.5,
       "style": "Fruited Kettle Sour",
       "styleCategory": "Sour & Gose",
+      "location": "Fisher Pavilion, 9",
       "description": "Peach, apricot and other stone fruit flavors on a semi-grainy wheat heavy palate. Philly sour yeast."
     },
     {
@@ -1356,6 +1508,7 @@
       "abv": 4.5,
       "style": "Czech Pale Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 19",
       "description": "The fact we were celebrating our 10 year anniversary while Linc Malt was enjoying theirs meant it was obvious what we had to do: Clearly we needed to brew a special edition of our flagship Czech-Style Pale Lager (a 10° Plato Světlý Výčepní) using only ingredients local to the Pacific Northwest. The base of this beer is Linc’s famous Baronesse Pilsner (you may know this malt from local legend Douglas Lager) combined with a modest percentage of Baronesse Vienna malt. This edition was also hopped exclusively with Idaho-grown Saaz hops, but the recipe is otherwise true to the Voltova you know and love: fermented cold and slow, spunded for natural carbonation, and lagered ice-cold. The malt character is snappy and crisp, with aromas of hay and fresh grass, plus light crackery notes. The hop character is assertively floral and bitter with a peppery spice complexity. Light, crisp, and excessively drinkable."
     },
     {
@@ -1365,6 +1518,7 @@
       "abv": 7,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 19",
       "description": "For our 10th anniversary, we we're thrilled to make a special beer with our friends and neighbors at Human People Beer Cafe. There was no doubt it should showcase a metric ton of Mosaic, and we took it a step further by loading up on a variety of hop products for a maximalist approach to this beloved style. Bird Search was brewed with a simple base of pilsner malt and a dash of chit malt, allowing the excessive hopping to shine without distraction. In the boil, we used Simcoe Cryo, Columbus Cryo, and Mosaic, while adding more Mosaic, Columbus Cryo, and Mosaic Incognito in the whirlpool. At knockout, we threw in a new product from Yakima Chief Hops: Mosaic 803 (supercritical CO2 extract). We also added beta-glucosidase, an exogenous enzyme aiding in the biotransformation of flavorless hop compounds into aromatic terpenes during fermentation. After fermentation, we dry-hopped with Mosaic, Mosaic Cryo, Riwaka, and a smidge of Columbus Cryo. FINALLY, we dosed the bright tank with Riwaka SubZero Hop Kief from Freestyle Hops, for even MORE lupulin. The result is absolutely saturated in hop oils, deftly balancing tropical fruit, citrus, berries, and sticky cannabis. Loud aromas of grapefruit hard candy and guava juice lead into flavors of tangerine gummies, fresh mixed berries, and resinous weed. A pleasant pithy bitterness lingers through the dry finish."
     },
     {
@@ -1374,6 +1528,7 @@
       "abv": 5,
       "style": "Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 10 / South Lawn, 78",
       "description": "Taste the original Seattle Bohemian Lager. Brewed for over 35 years, Old Seattle Lager is a crisp & drinkable classic."
     },
     {
@@ -1383,6 +1538,7 @@
       "abv": 6.5,
       "style": "W. Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 10 / South Lawn, 78",
       "description": "A crisp, clear West Coast IPA featuring Citra Cryo, Simcoe Dynaboost, Mosaic, and El Dorado hops."
     },
     {
@@ -1392,6 +1548,7 @@
       "abv": 7,
       "style": "Cask West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 10 / South Lawn, 78",
       "description": "We will pop a cask pin for the festival. Style and adjuncts yet TBD."
     },
     {
@@ -1401,6 +1558,7 @@
       "abv": 8.4,
       "style": "Imperial Apple Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 14",
       "description": "Fresh-pressed Honeycrisp apples fermented to 8.4% ABV and left unfiltered for full flavor. Crisp apple character with a naturally hazy finish - no shortcuts, no filtering out the good stuff.\n\nINGREDIENT HIGHLIGHTS: ​\nFresh-pressed Honeycrisp apple juice, Citra hops.​\n\n**Citra hops add a subtle citrus brightness that lifts the apple's natural sweetness without bitterness - keeping it crisp and balanced"
     },
     {
@@ -1410,6 +1568,7 @@
       "abv": 5.2,
       "style": "Fruited Semi-Sweet Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 14",
       "description": "Juicy blackberries and bright blueberries mingle with a hint of sweet french lavender and tangy, fresh-pressed PNW apples. At a sparkling 5.2%, its\nflavor profile is fruited and semi-sweet making this a crushable year-round cider."
     },
     {
@@ -1419,6 +1578,7 @@
       "abv": 8.4,
       "style": "Imperial Apple Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 14",
       "description": "FLAVOR DESCRIPTION: ​\n\nA pioneer of imperials, this stellar cider takes flavor (and ABV) to new heights. With its\ntantalizingly tart fresh-pressed apples and semi-sweet profile, Excelsior launches your\ntaste buds into an uncharted galaxy. A complex and crushable 8.4% ABV cider."
     },
     {
@@ -1428,6 +1588,7 @@
       "abv": 6.5,
       "style": "Fruited Semi Sweet Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 14",
       "description": "A balanced, tangy and crisp summer refresher hits the spot. The Yuzu, an asian citrus brings a twang that balances delectably with the soft and sweet peach profile. A fun, bright summer crusher!\n\nINGREDIENT HIGHLIGHTS: ​\n\nFresh-pressed apples, sugar, peach puree, yuzu juice, purple carrot juice (for color)."
     },
     {
@@ -1435,7 +1596,8 @@
       "name": "Ground Control - Cherry",
       "brewery": "Schilling & Starfall Cider",
       "style": "N/A Fruited Cider",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "Fisher Pavilion, 14"
     },
     {
       "id": "wbf26-0163",
@@ -1444,6 +1606,7 @@
       "abv": 6.3,
       "style": "IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 3",
       "description": "Boldly hoppede and classically structured, this American IPA balances old-school character with new age flair. A base of 2-Row, Munich, and Crystal malts brings subtle notes of toasted bread crust and light caramel, while a firm bitterness gives way to layers of citrus, tropical fruit, and pine. Crisp and balanced, it finishes clean and lingers like a good story."
     },
     {
@@ -1453,6 +1616,7 @@
       "abv": 5.5,
       "style": "Bavarian Hefeweizen",
       "styleCategory": "Wheat",
+      "location": "Fisher Pavilion, 3",
       "description": "Our Bavarian style hefeweizen is unfiltered and bursting with clove, vanilla and banana accents. Each sip harmonizes tradition and refreshment in perfect balance."
     },
     {
@@ -1462,6 +1626,7 @@
       "abv": 6.5,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 33",
       "description": "Everything old is new again... Future Echoes showcases a classic trio of Mosaic, Amarillo, and Centennial hops for punchy notes of pine and grapefruit."
     },
     {
@@ -1471,6 +1636,7 @@
       "abv": 5.4,
       "style": "Pale Ale",
       "styleCategory": "Pale Ale",
+      "location": "South Lawn, 33",
       "description": "A preview of our soon-to-be released permanently available Pale Ale! Modern, West-Coast style pale with Riwaka and Mosaic hops."
     },
     {
@@ -1480,6 +1646,7 @@
       "abv": 4.2,
       "style": "Shandy",
       "styleCategory": "Other",
+      "location": "Fisher Pavilion, 2",
       "description": "Lemon Shandy! What is it? Helles Lager with lemon puree. light, refreshing, crushable with notes of fresh squeezed lemonade and long summer nights."
     },
     {
@@ -1489,6 +1656,7 @@
       "abv": 10,
       "style": "Hazy Triple IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 2",
       "description": "pils\\wheat Hazy Triple IPA notes of mangoes, white peach and stiff mai-tai's.\nHops: Simcoe, Citra, Rawaka"
     },
     {
@@ -1498,6 +1666,7 @@
       "abv": 6.1,
       "style": "Fruited Hard Cider",
       "styleCategory": "Cider",
+      "location": "South Lawn, 84",
       "description": "CiderCraft Double Gold Winner! Apples and Pears purrrfectly go together in this limited edition cider. It's a delightful balance of fresh juices that make this one an easy sipper or blended with some of our other ciders like CinnaBEAR for that warm spiced pear treat."
     },
     {
@@ -1507,6 +1676,7 @@
       "abv": 6,
       "style": "Spiced Hard Cider",
       "styleCategory": "Cider",
+      "location": "South Lawn, 84",
       "description": "CiderCraft Judges' Pick Winner! The fox side of Slightly Furry started with this blend of Apple, Cinnamon, and Brown sugar as their first homebrew batch back in 2013. It was such a hit amongst their friends that they kept making more while they kept asking when it would be for sale. That feedback began the idea of Slightly Furry as we know today. So, we are bringing back the classic for you to enjoy any time of the year and be instantly transported into fall amongst gatherings of furry friends."
     },
     {
@@ -1516,6 +1686,7 @@
       "abv": 5.2,
       "style": "Fruited Hard Cider",
       "styleCategory": "Cider",
+      "location": "South Lawn, 84",
       "description": "PineappOWL pays homage to our first investor, taste tester, and biggest cheerleader. We crafted this cider after his original Owl fursona as a thank you for his ongoing support, balancing the bright flavor that pineapple is known for with more apple juice to tame the acidity. Lay back with a nice book and this cider in your claws for some summertime beach vibes."
     },
     {
@@ -1523,13 +1694,15 @@
       "name": "C.R.E.A.M. Soda",
       "brewery": "Slightly Furry",
       "style": "Vanilla Bean Soda",
-      "styleCategory": "NA"
+      "styleCategory": "NA",
+      "location": "South Lawn, 84"
     },
     {
       "id": "wbf26-0173",
       "name": "360 Blonde Ale",
       "brewery": "Steam Donkey Brewing Co.",
       "abv": 4.4,
+      "location": "Fisher Pavilion, 30",
       "description": "Cream Ale steeped with Earl Gray tea leaves.",
       "styleCategory": "Blonde, Kölsch & Cream"
     },
@@ -1538,6 +1711,7 @@
       "name": "420 IPA",
       "brewery": "Steam Donkey Brewing Co.",
       "abv": 6.8,
+      "location": "Fisher Pavilion, 30",
       "description": "West Coast IPA dry hopped with Abstrax Brewgas - Sour Tangie",
       "styleCategory": "IPA"
     },
@@ -1548,6 +1722,7 @@
       "abv": 11,
       "style": "BBA Stout",
       "styleCategory": "Stout & Porter",
+      "location": "South Lawn, 71",
       "description": "A big, bold, roasty stout brewed on a base of American 2-Row and Maris Otter malts and then aged in bourbon barrels."
     },
     {
@@ -1557,6 +1732,7 @@
       "abv": 6.2,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 71",
       "description": "We're proud to brew a West Coast IPA celebrating Seattle Pride and the 2026 Pride Match. Citrus ,passionfruit and Proud AF."
     },
     {
@@ -1566,6 +1742,7 @@
       "abv": 5,
       "style": "Bavarian Hefeweizen",
       "styleCategory": "Wheat",
+      "location": "South Lawn, 71",
       "description": "We honor tradition by brewing this beer using decoction mashing techniques and fermenting with a German yeast strain that imparts prominent banana and clove notes. The wheat gives this beer a crisp, slightly tart, refreshing finish."
     },
     {
@@ -1575,6 +1752,7 @@
       "abv": 4.8,
       "style": "Helles",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 71",
       "description": "German pilsner malt is the backbone for this clean, crisp German-style lager. A gentle malt sweetness teased out through traditional decoction brewing methods is balanced by German noble hops making for a spicy, bright finish."
     },
     {
@@ -1584,6 +1762,7 @@
       "abv": 4.9,
       "style": "Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 86",
       "description": "German Pilsner brewed with Mittelfruh and Spalt hops. With notes of wildflowers, and lemon peel."
     },
     {
@@ -1593,6 +1772,7 @@
       "abv": 7.2,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 86",
       "description": "West Coast IPA brewed with Nelson, Simcoe, and Citra bursting with aromas of mango and pomelo."
     },
     {
@@ -1602,6 +1782,7 @@
       "abv": 8,
       "style": "Imperial Sour Smoothie",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 86",
       "description": "Traditional Sour Smoothie! Strawberries, Tart Cherries, Sweet Cherries, and Cheesecake!"
     },
     {
@@ -1611,6 +1792,7 @@
       "abv": 7.2,
       "style": "Traditional Sour Smoothie",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 86",
       "description": "Pineapple, Mango, Passion Fruit, and Coconut! Our Flagship IPA is brewed with our favorite blend of malts and oats, and double-dry hopped with Galaxy, Citra, and Mosaic. Showcasing aromas of passionfruit, cantaloupe, and pineapple gummies."
     },
     {
@@ -1620,6 +1802,7 @@
       "abv": 17,
       "style": "Stout",
       "styleCategory": "Stout & Porter",
+      "location": "Fisher Pavilion, 29",
       "description": "A massive imperial brunch stout aged for two years in bourbon barrels, then finished with coffee, cinnamon, and maple syrup. Rich layers of dark chocolate, espresso, maple candy, bourbon caramel, and toasted oak lead into a velvety, warming finish built for serious stout lovers."
     },
     {
@@ -1629,6 +1812,7 @@
       "abv": 7,
       "style": "POG IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 29",
       "description": "Tropical passionfruit, bright orange and juicy guava with light notes of coconut from a thoughtful Sabro dry hopping. Full flavored, juicy, and easy drinking."
     },
     {
@@ -1638,6 +1822,7 @@
       "abv": 4.7,
       "style": "Blonde",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "Fisher Pavilion, 29",
       "description": "A crisp, easy-drinking blonde ale with bright, subtle raspberry character and a clean, refreshing finish. Light-bodied and perfectly balanced, this two-time Double Gold SIP Award winner delivers fresh berry aroma without overpowering sweetness."
     },
     {
@@ -1647,6 +1832,7 @@
       "abv": 5.3,
       "style": "German Style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 26",
       "description": "A light, crackery malt base supports delicate floral, herbal and spicy hop notes in this crisp German Style Pilsner that’s mildly bitter and endlessly refreshing."
     },
     {
@@ -1656,6 +1842,7 @@
       "abv": 7.2,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 26",
       "description": "A crisp and true to the terroir contemporary West Coast IPA bursting with tropical fruit, citrus, stone fruit as well as subtle floral and resinous pine notes."
     },
     {
@@ -1665,6 +1852,7 @@
       "abv": 6.9,
       "style": "Fruited Cider",
       "styleCategory": "Cider",
+      "location": "Fisher Pavilion, 26",
       "description": "Fresh WA apple juice fermented on an English Ale yeast strain and then conditioned on loads of locally grown blueberries and raspberries."
     },
     {
@@ -1673,7 +1861,8 @@
       "brewery": "Trap Door Brewing",
       "abv": 6.8,
       "style": "Hazy IPA",
-      "styleCategory": "IPA"
+      "styleCategory": "IPA",
+      "location": "South Lawn, 38"
     },
     {
       "id": "wbf26-0190",
@@ -1681,7 +1870,8 @@
       "brewery": "Trap Door Brewing",
       "abv": 5.8,
       "style": "WC Pale",
-      "styleCategory": "Pale Ale"
+      "styleCategory": "Pale Ale",
+      "location": "South Lawn, 38"
     },
     {
       "id": "wbf26-0191",
@@ -1689,7 +1879,8 @@
       "brewery": "Trap Door Brewing",
       "abv": 6,
       "style": "Fruited Sour Ale",
-      "styleCategory": "Sour & Gose"
+      "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 38"
     },
     {
       "id": "wbf26-0192",
@@ -1697,7 +1888,8 @@
       "brewery": "Trap Door Brewing",
       "abv": 6.5,
       "style": "WCIPA",
-      "styleCategory": "IPA"
+      "styleCategory": "IPA",
+      "location": "South Lawn, 38"
     },
     {
       "id": "wbf26-0193",
@@ -1706,6 +1898,7 @@
       "abv": 5,
       "style": "German-Style Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 28",
       "description": "German-Style Pilsner built on Pilsen and Dextra Pils malts, balanced with Millennium and Hallertau Mittelfruh hops, and fermented with Augustiner Lager yeast."
     },
     {
@@ -1715,6 +1908,7 @@
       "abv": 5.2,
       "style": "Blood Orange Hefeweizen",
       "styleCategory": "Wheat",
+      "location": "Fisher Pavilion, 28",
       "description": "German Hefeweizen with blood orange added to the secondary fermentation. Built on Two-Row and White Wheat malts, with a simple dose of Millennium hops, and fermented with Hefeweizen yeast."
     },
     {
@@ -1724,6 +1918,7 @@
       "abv": 6.5,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 28",
       "description": "West Coast IPA brewed in partnership with the Washington Wolfpack Arena Football team based out of Everett. Brewed with Two-Row, Marris Otter, Carapils, and Munich malts, hopped with Columbus, Centennial, and a huge dose of Mandarina Bavaria hops, and fermented with Safale US-05 yeast."
     },
     {
@@ -1733,6 +1928,7 @@
       "abv": 4.6,
       "style": "English Brown Ale",
       "styleCategory": "Amber, Brown & Dark",
+      "location": "Fisher Pavilion, 28",
       "description": "English Brown Ale built on a complex mix of Two-Row, Amber, Crystal 60, and Chocalte malts, hopped exclusively with East Kent Goldings hops, and fermented with London Ale III yeast."
     },
     {
@@ -1742,6 +1938,7 @@
       "abv": 7.3,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 39",
       "description": "We take your favourite Mosaic hops and throw in some Dolcita in this drinkable hazy IPA. Big peach energy with a pineapple and tropical finish."
     },
     {
@@ -1751,6 +1948,7 @@
       "abv": 5.5,
       "style": "Cherry Pie Sour Ale",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 39",
       "description": "Inspired by cherry pie made at Ben's Bread, this collaboration with them and Ridgewood is reminiscent of tart cherry with a dominant cinnamon and background note of clove! Pink/red, sour/tart, crisp, cherry and cinnamon forward."
     },
     {
@@ -1760,6 +1958,7 @@
       "abv": 8.1,
       "style": "Wine Grape Mixed Ferm",
       "styleCategory": "Saison & Farmhouse",
+      "location": "South Lawn, 52",
       "description": "8.1% ABV - Wild Ale re-fermented on whole Syrah grapes\n\nWe continue our wild collaboration with our friend Oliver May from Discover Vineyard (Horse Heaven Hills AVA), celebrating Chris & Oliver’s mentor, conservationist Dr. Steven Herman. This beer was blended from selected wine barrel aged wild ale aged in red wine barrels, then re-fermented for about a year on lightly crushed Syrah grapes with a small portion of Petite Verdot grapes added, before allowing the beer to condition naturally. This beer features a mild acidity with bright red berry flavor and a touch of black pepper. The deep red color of this beer comes from the long contact time with the Syrah grape skins."
     },
     {
@@ -1769,6 +1968,7 @@
       "abv": 4.5,
       "style": "Patio Beer (Cream Ale)",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "South Lawn, 52",
       "description": "Crisp, clear, and ULTRA refreshing, this light-bodied ale is perfect for quaffing on the patio while the grill is getting warmed up. El Dorado hops peek through in the aroma and finish leaving you needing another, and another, and another sip."
     },
     {
@@ -1778,6 +1978,7 @@
       "abv": 6.3,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 52",
       "description": "Our most popular beer, the tropical & citrus flavors in SUP CUZ IPA come from Amarillo, Cascade, Comet & Citra, all hops grown by our close friends at Loza Farms in Wapato. Very light bodied for the style, this beer is perfect paired a relaxed afternoon with family and friends."
     },
     {
@@ -1787,6 +1988,7 @@
       "abv": 8.25,
       "style": "DDH Double Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 59",
       "description": "Ribbit Robot: Super Krush is a double dry-hopped IPA with Krush and Citra on the hot side and a dry hop of Krush, Citra Hyperboost, Citra Cryo and Rakau! The result is a KRUSHable banger with new artwork by @mayfair_pdx! Tropical fruit medley meets pillowy mouthfeel with a nose full of white grape, grapefruit and citrus peel. Sneaky at 8.25%."
     },
     {
@@ -1796,6 +1998,7 @@
       "abv": 4.5,
       "style": "Rice Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 59",
       "description": "Somewhere between Cybertron and Kilroy’s hideout, this Rice Lager was engineered for one purpose: maximum crushability.\n\nMr. Roboto powers up with a clean, crisp malt profile, a smooth rice-lager glide, and a finish so snappy it might just transform your afternoon. Light, bright, and refreshingly precise, it’s built for humans, Autobots, and suspiciously emotional synth-pop androids alike."
     },
     {
@@ -1805,6 +2008,7 @@
       "abv": 5,
       "style": "Mexican Lager with Lime",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 59",
       "description": "A last resort Mexican Lager with lime juice and lime zest."
     },
     {
@@ -1814,6 +2018,7 @@
       "abv": 6.89,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 59",
       "description": "The Last of the Big Dawgz is a West Coast IPA brewed as a loving nod to our former head brewer, Aaron Copelin — a NorCal original known for rocking socks with sandals, cruising in a Subaru Forester with California plates, and calling just about everybody Big Dog.\n\nJust like the man himself, this beer is classic, unbothered, and full of character: bright citrus, piney bitterness, a little dankness, and a crisp, clean finish that keeps things moving. Columbus and Simcoe lay down the old-school backbone, while Krush, Mosaic, Nelson, and Mosaic Cryo ride shotgun for a punchy modern hop blast.\n\nA little Northern California attitude, a little Pacific Northwest polish, and a whole lot of Big Dog energy."
     },
     {
@@ -1823,6 +2028,7 @@
       "abv": 6.5,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 36",
       "description": "This West Coast IPA is coming at you from deep in Sector 441 in the Beta Quadrant. Made with Great Western malts Loaded with Comet, Cascade and Citra, The Riker Maneuver hits with citrus, melon, pine resin and a rounded bitterness. Please enjoy responsibly and please refrain from swinging your leg over the chair when you sit down. Not everyone can pull that off like the galaxy’s favorite playboy"
     },
     {
@@ -1832,6 +2038,7 @@
       "abv": 5,
       "style": "West Coast Pilsner",
       "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 36",
       "description": "Brewed by Jamie, one of Volition’s founders, Common Ground is a toast to resilience, connection, and the joy found in shared moments. Crisp, light, and layered with citrus, melon, and pine from Strata, Citra, and Mosaic hops, this West Coast Pilsner is easy to drink, easy to share, and made for everyone."
     },
     {
@@ -1841,6 +2048,7 @@
       "abv": 5.8,
       "style": "Fruited IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 36",
       "description": "Our latest release is a fruited hazy IPA bursting with pineapple, passion fruit, and guava — it’s juicy, tropical, and just a little bit wild. Just like that epic beach party in The Lost Boys. (You know the one — saxophones blazing, bonfires roaring, pure 80s magic."
     },
     {
@@ -1850,6 +2058,7 @@
       "abv": 6,
       "style": "Fruited Sour - Apricot Lemon Ginger",
       "styleCategory": "Sour & Gose",
+      "location": "South Lawn, 36",
       "description": "Not all royalty lives in the Mushroom Kingdom. This golden sour starts with a delicate base of Pilsner malt, white wheat malt, and flaked barley before being loaded with generous amounts of apricot and lemon purée.\n\nA subtle touch of ginger rounds out the finish, adding just enough depth without stealing the spotlight. The result is bright, refreshing, and beautifully layered—bursting with juicy stone fruit, vibrant citrus, clean acidity, and a whisper of spice."
     },
     {
@@ -1859,6 +2068,7 @@
       "abv": 5.1,
       "style": "Kölsch-style",
       "styleCategory": "Blonde, Kölsch & Cream",
+      "location": "Fisher Pavilion, 22",
       "description": "Our flagship beer is a bright, crisp take on the ales of Köln, Germany. We took the precision of this classic German style and adapted it to the American palate with PNW-grown hops, producing a beer of surprising depth and nuance for such a refreshing style."
     },
     {
@@ -1868,6 +2078,7 @@
       "abv": 5.5,
       "style": "German-style Amber Rye Ale",
       "styleCategory": "Amber, Brown & Dark",
+      "location": "Fisher Pavilion, 22",
       "description": "Our signature rye ale features the earthy and faintly spicy quality of malted rye, interwoven with Yakima-grown Mt Hood hops. The result is a malt forward, yet dry balance with subtle fruit-like fermentation character and moderate hop bitterness."
     },
     {
@@ -1877,6 +2088,7 @@
       "abv": 6,
       "style": "West Coast IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 22",
       "description": "Our rotating line of IPAs is all about hops. Each release showcases a different blend of hops over a crisp, dry bed of pale malt. Join us on this hop odyssey as we explore new varieties from the PNW and from around the globe!"
     },
     {
@@ -1886,6 +2098,7 @@
       "abv": 7,
       "style": "Hazy IPA",
       "styleCategory": "IPA",
+      "location": "Fisher Pavilion, 1",
       "description": "2021 Washington Beer Awards Silver Medal Hazy IPA. This easy-drinkin' New England Style Hazy IPA features Tropical Fruit and a pleasantly complex hop profile."
     },
     {
@@ -1895,6 +2108,7 @@
       "abv": 4.2,
       "style": "American Lager",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 1",
       "description": "60's Recipe Brewed with Olympia Head Brewer."
     },
     {
@@ -1904,6 +2118,7 @@
       "abv": 7,
       "style": "French Saison",
       "styleCategory": "Saison & Farmhouse",
+      "location": "Fisher Pavilion, 1",
       "description": "Brewed in Collaboration with Famed Home Brewer “Muffin Man”. Made with Lemon Grass, Ginger, and Lemon Peel. Fermented with French Saison Yeast."
     },
     {
@@ -1913,6 +2128,7 @@
       "abv": 7.5,
       "style": "Dopplebock",
       "styleCategory": "Lager & Pilsner",
+      "location": "Fisher Pavilion, 1",
       "description": "Birra la Rossa is a classic Italian style dopplebock lager, featuring complex flavors of sweet malt and toasted grains. It's malty profile is enhanced with subtle bitterness from European hops."
     },
     {
@@ -1922,6 +2138,7 @@
       "abv": 6.5,
       "style": "Dry Apple",
       "styleCategory": "Cider",
+      "location": "South Lawn, 37",
       "description": "Bright, light and refreshing with the bite of\nbittersweet apples. Bright notes of citrus,\nhints of orange and lime dance with flavors\nof tropical fruit, making this a very refreshing\nbut hard to define cider."
     },
     {
@@ -1931,6 +2148,7 @@
       "abv": 6.9,
       "style": "fruited cider",
       "styleCategory": "Cider",
+      "location": "South Lawn, 37",
       "description": "This cider is packed with the refreshing taste of peach, lemon, and a touch of mint. Tart and juicy all at the same time. Some of our favorite flavors of the season!"
     },
     {
@@ -1938,6 +2156,7 @@
       "name": "Shticky Blonde Ale",
       "brewery": "192 Brewing Co.",
       "abv": 6.75,
+      "location": "Fisher Pavilion, 18",
       "description": "Kolsch style beer brewed with noble hops and fermented with wildflower honey.",
       "styleCategory": "Blonde, Kölsch & Cream"
     },
@@ -1946,6 +2165,7 @@
       "name": "Wally Hop IPA",
       "brewery": "192 Brewing Co.",
       "abv": 5.5,
+      "location": "Fisher Pavilion, 18",
       "description": "Brewed with NW tropical forward hops and a balanced malt finish.",
       "styleCategory": "IPA"
     },
@@ -1954,6 +2174,7 @@
       "name": "Selder",
       "brewery": "192 Brewing Co.",
       "abv": 3.3,
+      "location": "Fisher Pavilion, 18",
       "description": "A hybrid between cider and seltzer. The juice and flavor of cider, the appeal and vibes of seltzer.",
       "styleCategory": "Other"
     },
@@ -1963,7 +2184,8 @@
       "brewery": "Brothers Cascadia Brewing",
       "abv": 4.9,
       "style": "German Style Pislner",
-      "styleCategory": "Lager & Pilsner"
+      "styleCategory": "Lager & Pilsner",
+      "location": "South Lawn, 46"
     },
     {
       "id": "wbf26-0223",
@@ -1972,6 +2194,7 @@
       "abv": 6.9,
       "style": "WCIPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 46",
       "description": "Brewed for our 9 Year Anniversary happening on June 20th and 21st. This modern WCIPA is clean and crisp utilizing Mosaic T-90, Mosaic Cryo, Mosaic DynaBoost, Citra T-90, Citra Cryo, Citra DynaBoost & Simcoe T-90"
     },
     {
@@ -1981,6 +2204,7 @@
       "abv": 7.1,
       "style": "NZ Hazy IPA",
       "styleCategory": "IPA",
+      "location": "South Lawn, 46",
       "description": "Te Waipounamu the traditional Māori name for New Zealand's South Island. It translates literally to \"the waters of greenstone\". This NZ Hazy IPA features 100% Riwaka Hops in three different formats. T90 pellets from Freestyle, T45 from Clayton Farms, and Subzero Hop Kief from Freestyle. Bursting with huge tropical aromatics of guava, papaya and mango."
     }
   ]
