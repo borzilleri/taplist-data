@@ -1,4 +1,7 @@
 Brewery,Beer,Style/ABV,Description
+192 Brewing Co.,Shticky Blonde Ale,6.75%,Kolsch style beer brewed with noble hops and fermented with wildflower honey.
+192 Brewing Co.,Wally Hop IPA,5.50%,Brewed with NW tropical forward hops and a balanced malt finish.
+192 Brewing Co.,Selder,3.30%,"A hybrid between cider and seltzer. The juice and flavor of cider, the appeal and vibes of seltzer."
 210 Brewing Co.,Los Vientos,5.1% Mexican Lager,
 210 Brewing Co.,Pineapple Heff Wheatley,5% Pineapple Hefeweizen,
 210 Brewing Co.,PEAK IPA,7.2% Hazy IPA,"Brewed with Nelson Cryo, Loral Cryo, Dolcita, Sultana!"
@@ -38,6 +41,9 @@ Bizarre Brewing,Brett Bier with Lemon Peel & Coriander,5.00%,"We brewed our bret
 Boundary Bay Brewing Co.,Cedar Dust IPA,6.3% - American IPA,"Inspiration for Cedar Dust IPA hails from Bellingham’s iconic mountain bike trail on Galbraith Mountain. Brewed with four varieties of Washington-grown hops, it encapsulates the adventurous spirit of the PNW, offering bright citrus aromatics, subtle pine, and a clean, refreshing finish with a balanced, approachable bitterness that keeps you shreddin’."
 Boundary Bay Brewing Co.,Scotch Ale,6.4% ABV - Scottish-Style Ale,"Our Scotch Ale became a Northwest classic with the inaugural brew in 1995. The long boil in the kettle caramelizes the wort, producing deep-copper tones. Scotch Ale’s signature malt character is crafted for pure enjoyment."
 Boundary Bay Brewing Co.,BBA Old Bounder Barletwine,13.3% - Bourbon Barrel-Aged American Barleywine,"Old Bounder, an homage to yesteryear's ales, is an intense, barrel-aged barleywine. Hints of stonefruit and woody undertones are complemented by smooth caramel sweetness, bold hop character, and a warming alcohol content. Perfect for post-dinner indulgence or dessert pairing, Old Bounder is crafted for connoisseurs seeking the finest, embodying a voyage into bold flavors."
+Brothers Cascadia Brewing,The Peoples Pilsner,4.9% German Style Pislner,4.9% German Style Pislner
+Brothers Cascadia Brewing,Annos IX,6.9%abv WCIPA,"Brewed for our 9 Year Anniversary happening on June 20th and 21st. This modern WCIPA is clean and crisp utilizing Mosaic T-90, Mosaic Cryo, Mosaic DynaBoost, Citra T-90, Citra Cryo, Citra DynaBoost & Simcoe T-90"
+Brothers Cascadia Brewing,The Waters of Green Stone,7.1% abv NZ Hazy IPA,"Te Waipounamu the traditional Māori name for New Zealand's South Island. It translates literally to ""the waters of greenstone"". This NZ Hazy IPA features 100% Riwaka Hops in three different formats. T90 pellets from Freestyle, T45 from Clayton Farms, and Subzero Hop Kief from Freestyle. Bursting with huge tropical aromatics of guava, papaya and mango."
 Burke-Gilman Brewing Company,Kölner Dom,5% Kölsch,"Crisp, light, fruity. Perfect for the warm weather."
 Burke-Gilman Brewing Company,Hefeweizen,5.4% Hefeweizen,"Bavarian wheat beer, banana and clove."
 Burke-Gilman Brewing Company,"Up, And To The Left",6.6% West Coast IPA,"Chinook, Columbus, Mosaic. 
@@ -55,7 +61,6 @@ Culture Shock Brew,Sage Awakening,"5.7% ABV, hard kombucha","Sage Awakening, yuz
 Culture Shock Brew,Golden Griffin,,"GOLDEN GRIFFIN: Green tea flavored with fresh Pineapple, Mango, and Yakima Valley Hops. So many tropical notes up front with a well-balanced hop finish."
 Culture Shock Brew,Tepache Day Dream,"6.9%ABV, Hard Tepache","Tepache Daydream, pineapple hard tepache 6.9% ABV
  Notes of roasted pineapple and baking spice with an outstanding wild yeast funk"
-Culture Shock Brew,Golden Griffin (see above),,
 Dick's Brewing Company,El Ricardo,Mexican Lager 4.2%,"Crisp, light, and brewed with a refreshing twist — El Ricardo is an easy-drinking lager with smooth flavor and laid-back vibes made for good times."
 Dick's Brewing Company,Dick Danger Ale,5.2% English Dark Ale,"Bold, smooth, and full of character — Dick Danger Ale delivers rich malt flavor balanced with a clean hop finish for an easy-drinking ale with just the right amount of attitude."
 Dick's Brewing Company,Orange You Glad,Wheat Ale 4.8%,"Bright, refreshing, and brewed with a burst of citrus — Orange You Glad Wheat Ale is a smooth wheat beer with sweet orange flavor and a crisp, easy-drinking finish."
@@ -197,7 +202,7 @@ Ravenna Brewong Co,Voltova 10th Anniversary Edition - Collab with Linc Malt,4.5%
 Ravenna Brewong Co,Bird Search - 10th Anniversary Collab with Human People,7% - West Coast IPA,"For our 10th anniversary, we we're thrilled to make a special beer with our friends and neighbors at Human People Beer Cafe. There was no doubt it should showcase a metric ton of Mosaic, and we took it a step further by loading up on a variety of hop products for a maximalist approach to this beloved style. Bird Search was brewed with a simple base of pilsner malt and a dash of chit malt, allowing the excessive hopping to shine without distraction. In the boil, we used Simcoe Cryo, Columbus Cryo, and Mosaic, while adding more Mosaic, Columbus Cryo, and Mosaic Incognito in the whirlpool. At knockout, we threw in a new product from Yakima Chief Hops: Mosaic 803 (supercritical CO2 extract). We also added beta-glucosidase, an exogenous enzyme aiding in the biotransformation of flavorless hop compounds into aromatic terpenes during fermentation. After fermentation, we dry-hopped with Mosaic, Mosaic Cryo, Riwaka, and a smidge of Columbus Cryo. FINALLY, we dosed the bright tank with Riwaka SubZero Hop Kief from Freestyle Hops, for even MORE lupulin. The result is absolutely saturated in hop oils, deftly balancing tropical fruit, citrus, berries, and sticky cannabis. Loud aromas of grapefruit hard candy and guava juice lead into flavors of tangerine gummies, fresh mixed berries, and resinous weed. A pleasant pithy bitterness lingers through the dry finish."
 Rooftop Brewing Co,Old Seattle Lager,5.0% Lager,"Taste the original Seattle Bohemian Lager. Brewed for over 35 years, Old Seattle Lager is a crisp & drinkable classic."
 Rooftop Brewing Co,Slack Tide IPA,6.5% W. Coast IPA,"A crisp, clear West Coast IPA featuring Citra Cryo, Simcoe Dynaboost, Mosaic, and El Dorado hops."
-Rooftop Brewing Co,Cask Beer,TBD,We will pop a cask pin for the festival. Style and adjuncts yet TBD.
+Rooftop Brewing Co,Pride IPA - Cask,Cask West Coast IPA 7%,We will pop a cask pin for the festival. Style and adjuncts yet TBD.
 Schilling & Starfall Cider,Starfall Imperial Hazy Honeycrisp Cider,Imperial Apple Cider - 8.4%,"Fresh-pressed Honeycrisp apples fermented to 8.4% ABV and left unfiltered for full flavor. Crisp apple character with a naturally hazy finish - no shortcuts, no filtering out the good stuff.
  
  INGREDIENT HIGHLIGHTS: ​

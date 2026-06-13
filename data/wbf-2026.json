@@ -2,7 +2,7 @@
   "$schema": "https://borzilleri.net/taplist-data/schema/dataset.schema.json",
   "id": "wbf-2026",
   "festival": "Washington Brewers Festival 2026",
-  "updatedAt": "2026-06-09T00:00:00Z",
+  "updatedAt": "2026-06-13T00:00:00Z",
   "beers": [
     {
       "id": "wbf26-0001",
@@ -1387,10 +1387,12 @@
     },
     {
       "id": "wbf26-0157",
-      "name": "Cask Beer",
+      "name": "Pride IPA - Cask",
       "brewery": "Rooftop Brewing Co",
-      "description": "We will pop a cask pin for the festival. Style and adjuncts yet TBD.",
-      "styleCategory": "Other"
+      "abv": 7,
+      "style": "Cask West Coast IPA",
+      "styleCategory": "IPA",
+      "description": "We will pop a cask pin for the festival. Style and adjuncts yet TBD."
     },
     {
       "id": "wbf26-0158",
@@ -1930,6 +1932,56 @@
       "style": "fruited cider",
       "styleCategory": "Cider",
       "description": "This cider is packed with the refreshing taste of peach, lemon, and a touch of mint. Tart and juicy all at the same time. Some of our favorite flavors of the season!"
+    },
+    {
+      "id": "wbf26-0219",
+      "name": "Shticky Blonde Ale",
+      "brewery": "192 Brewing Co.",
+      "abv": 6.75,
+      "description": "Kolsch style beer brewed with noble hops and fermented with wildflower honey.",
+      "styleCategory": "Blonde, Kölsch & Cream"
+    },
+    {
+      "id": "wbf26-0220",
+      "name": "Wally Hop IPA",
+      "brewery": "192 Brewing Co.",
+      "abv": 5.5,
+      "description": "Brewed with NW tropical forward hops and a balanced malt finish.",
+      "styleCategory": "IPA"
+    },
+    {
+      "id": "wbf26-0221",
+      "name": "Selder",
+      "brewery": "192 Brewing Co.",
+      "abv": 3.3,
+      "description": "A hybrid between cider and seltzer. The juice and flavor of cider, the appeal and vibes of seltzer.",
+      "styleCategory": "Other"
+    },
+    {
+      "id": "wbf26-0222",
+      "name": "The Peoples Pilsner",
+      "brewery": "Brothers Cascadia Brewing",
+      "abv": 4.9,
+      "style": "German Style Pislner",
+      "styleCategory": "Lager & Pilsner"
+    },
+    {
+      "id": "wbf26-0223",
+      "name": "Annos IX",
+      "brewery": "Brothers Cascadia Brewing",
+      "abv": 6.9,
+      "style": "WCIPA",
+      "styleCategory": "IPA",
+      "description": "Brewed for our 9 Year Anniversary happening on June 20th and 21st. This modern WCIPA is clean and crisp utilizing Mosaic T-90, Mosaic Cryo, Mosaic DynaBoost, Citra T-90, Citra Cryo, Citra DynaBoost & Simcoe T-90"
+    },
+    {
+      "id": "wbf26-0224",
+      "name": "The Waters of Green Stone",
+      "brewery": "Brothers Cascadia Brewing",
+      "abv": 7.1,
+      "style": "NZ Hazy IPA",
+      "styleCategory": "IPA",
+      "description": "Te Waipounamu the traditional Māori name for New Zealand's South Island. It translates literally to \"the waters of greenstone\". This NZ Hazy IPA features 100% Riwaka Hops in three different formats. T90 pellets from Freestyle, T45 from Clayton Farms, and Subzero Hop Kief from Freestyle. Bursting with huge tropical aromatics of guava, papaya and mango."
     }
   ]
 }
