@@ -3,6 +3,7 @@
   "id": "wbf-2026",
   "festival": "Washington Brewers Festival 2026",
   "updatedAt": "2026-06-13T00:00:00Z",
+  "mapUrl": "/data/wbf-2026-map.png",
   "beers": [
     {
       "id": "wbf26-0001",
